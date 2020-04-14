@@ -1,0 +1,13 @@
+MATHPLOT HW
+
+* By the final timepoint of the study it is notable a difference between the mice
+  treated with Capomulin and Ramicane against the ones treated with Infubinol and
+  Ceftamin, concluding there is a higher grade of effectiveness with the first two.
+
+* The arbitrary mouse "b128" treated with Capomulin shows that between days 25-35
+  it has a great increase in its tumor size. Proof of Capomulin's effectiveness from
+  day 25 and on.
+
+* There is a strong linear correlation between the tumor volume and the mouse weight,
+  this is we can estimate with good confidence the tumor volume for an specific mouse
+  given its weight.
